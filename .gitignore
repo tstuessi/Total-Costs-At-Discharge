@@ -1,5 +1,9 @@
 # project-specific folders
 data/
+Resources*
+utils*
+.vscode/
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
